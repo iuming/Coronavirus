@@ -10,3 +10,4 @@
 ## Key Assumptions
 ![image](https://github.com/iuming/Coronavirus/blob/master/image/Key%20Assumptions.png)     
  
+//from wuhan2020
